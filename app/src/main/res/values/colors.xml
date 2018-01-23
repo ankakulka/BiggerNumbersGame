@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bluish">#c0d3d4</color>
+    <color name="yellowish">#f7c9a1</color>
+    <color name="buttercup">#f0db91</color>
+    <color name="seledyn">#b1d5b4</color>
+    <color name="raspberry">#cd4557</color>
+    <color name="seagreen">#6cb695</color>
+</resources>
